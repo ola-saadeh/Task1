@@ -52,7 +52,7 @@ input[type="text"],
 input[type="date"],
 input[type="email"],
 input[type="password"] {
-    width: calc(100% - 22px); /* Adjust according to padding and borders */
+    width: calc(100% - 22px); 
     padding: 10px;
     margin: 10px 0;
     margin-bottom: 30px;
@@ -63,7 +63,7 @@ input[type="password"] {
 }
 
 select {
-    width: calc(100% ); /* Adjust according to padding and borders */
+    width: 100% ;  
     padding: 10px;
     margin: 10px 0;
     color: #fff;
